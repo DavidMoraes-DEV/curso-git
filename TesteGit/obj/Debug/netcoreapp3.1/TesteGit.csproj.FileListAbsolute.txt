@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.exe
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.deps.json
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.dll
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.pdb
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
+C:\ProgramasCSharp\ConceitoDeGit_e_GitHub\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.genruntimeconfig.cache
